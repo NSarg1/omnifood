@@ -86,6 +86,3 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-resources/desktop.ini
-vendors/desktop.ini
-resources/desktop.ini
