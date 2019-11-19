@@ -1,0 +1,25 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/NSarg7/Omnifood",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages --dist build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NSarg7/Omnifood.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NSarg7/Omnifood/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
